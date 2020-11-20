@@ -1,1 +1,25 @@
-# JSON
+{
+    "Story": [
+       {
+          "character": "1",
+          "say": "....Hello, my name is\\mainName . I start highschool next week. Some people think it highschool is an oportunity to start fresh. for me it literary is. My family is moving to a new city so y don't know anyone. "
+       },
+       {
+          "character": "2",
+          "say": "Wait till you see the new house. It is going to need a fixing but It is going to be much bigger than the apartment."
+       },
+       {
+          "character": "3",
+          "say": "Will need both of you to help settle in."
+       }
+    ],
+    "characters": {
+       "a": {
+          "name": "Alex",
+          "Characteristics": {
+             "Initiative": "0",
+             "Money": "0"
+          }
+       }
+    }
+ }
